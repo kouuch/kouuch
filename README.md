@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">COSMED</h2>
+<h3 align="center">COSMED</h3>
 
 <hr style="border: 1px solid #E4405F; width: 50%; margin: 20px auto;" />
 

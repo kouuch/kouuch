@@ -24,7 +24,7 @@
 
 <h3 align="center">🛠 Language and tools</h3>
 <hr style="border: 1px solid #E4405F; width: 50%; margin: 20px auto;" />
-###
+
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />

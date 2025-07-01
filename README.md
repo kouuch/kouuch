@@ -22,8 +22,8 @@
 
 ###
 
-<h2 align="center">🛠 Language and tools</h2>
-
+<h3 align="center">🛠 Language and tools</h3>
+<hr style="border: 1px solid #E4405F; width: 50%; margin: 20px auto;" />
 ###
 
 <div align="center">

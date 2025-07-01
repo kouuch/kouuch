@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://i.pinimg.com/originals/e0/7f/83/e07f834751cd68b72ea49262e79c21b7.gif" alt="Gif Example" style="border: none; display: block; margin: 0 auto;" />
+<img align="left" height="309" src="https://i.pinimg.com/originals/e0/7f/83/e07f834751cd68b72ea49262e79c21b7.gif"  />
 
 ###
 

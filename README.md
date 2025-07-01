@@ -2,25 +2,27 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/e0/7f/83/e07f834751cd68b72ea49262e79c21b7.gif"  />
-</div>
+<p align="left">My name is Muhammad Rifky Irsada.</p>
+
+###
+
+<img align="left" height="309" src="https://i.pinimg.com/originals/e0/7f/83/e07f834751cd68b72ea49262e79c21b7.gif"  />
+
+###
+
+<h2 align="center">COSMED</h2>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.instagram.com/m.rifkyirsada/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kouuch.kouuch&"  />
-</div>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
@@ -50,13 +52,19 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="center"></h2>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kouuch&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://profile-counter.glitch.me/kouuch/count.svg?"  />
 </div>
+
+###
+
+<h2 align="left">Gabut :</h2>
 
 ###
 
@@ -67,6 +75,3 @@
 </picture>
 
 ###
-
-###
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kouuch&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

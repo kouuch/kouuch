@@ -12,7 +12,7 @@
 
 <h3 align="center">COSMED</h3>
 
-<hr style="border: 1px solid #E4405F; width: 50%; margin: 20px auto;" />
+<hr style="border: 1px solid #E4405F; width: 40%; margin: 10px auto;" />
 
 <div align="center">
   <a href="https://www.instagram.com/m.rifkyirsada/" target="_blank">
@@ -49,8 +49,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
+<br>
 
-###
 
 <h2 align="center"></h2>
 

@@ -12,7 +12,7 @@
 
 <h2 align="center">COSMED</h2>
 
-###
+<hr style="border: 1px solid #E4405F; width: 50%; margin: 20px auto;" />
 
 <div align="center">
   <a href="https://www.instagram.com/m.rifkyirsada/" target="_blank">

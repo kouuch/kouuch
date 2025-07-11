@@ -59,7 +59,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kouuch/count.svg?"  />
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=kouuch.kouuch&"  />
 </div>
 
 ###
